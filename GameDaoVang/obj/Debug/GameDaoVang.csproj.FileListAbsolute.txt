@@ -1,0 +1,31 @@
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\bin\Debug\GameDaoVang.exe
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\bin\Debug\GameDaoVang.exe.config
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.BanHang.resources
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.GioiThieu.resources
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.HuongDanChoi.resources
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.ManChoi.resources
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.Menu.resources
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.PauseGame.resources
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.Properties.Resources.resources
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.csproj.GenerateResource.Cache
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.exe
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.pdb
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\bin\Debug\GameDaoVang.pdb
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.csprojResolveAssemblyReference.cache
+E:\C#\GameDaoVang\GameDaoVang\bin\Debug\GameDaoVang.exe.config
+E:\C#\GameDaoVang\GameDaoVang\bin\Debug\GameDaoVang.exe
+E:\C#\GameDaoVang\GameDaoVang\bin\Debug\GameDaoVang.pdb
+E:\C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.BanHang.resources
+E:\C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.ChuGian.resources
+E:\C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.GioiThieu.resources
+E:\C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.HuongDanChoi.resources
+E:\C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.ManChoi.resources
+E:\C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.Menu.resources
+E:\C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.MucTieu.resources
+E:\C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.PauseGame.resources
+E:\C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.Properties.Resources.resources
+E:\C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.csproj.GenerateResource.Cache
+E:\C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.exe
+E:\C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.pdb
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.ChuGian.resources
+C:\Users\BTS4LIFE\Documents\Visual Studio 2015\Projects\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.MucTieu.resources

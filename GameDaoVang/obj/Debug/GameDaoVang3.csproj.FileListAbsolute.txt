@@ -1,0 +1,126 @@
+E:\C#\Thinh\GameDaoVang\GameDaoVang\bin\Debug\GameDaoVang.exe.config
+E:\C#\Thinh\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.exe
+E:\C#\Thinh\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.pdb
+E:\C#\Thinh\GameDaoVang\GameDaoVang\bin\Debug\GameDaoVang.exe
+E:\C#\Thinh\GameDaoVang\GameDaoVang\bin\Debug\GameDaoVang.pdb
+E:\C#\Thinh\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang3.csprojResolveAssemblyReference.cache
+E:\C#\Thinh\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.BanHang.resources
+E:\C#\Thinh\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.ChuGian.resources
+E:\C#\Thinh\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.GioiThieu.resources
+E:\C#\Thinh\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.HuongDanChoi.resources
+E:\C#\Thinh\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.ManChoi.resources
+E:\C#\Thinh\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.Menu.resources
+E:\C#\Thinh\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.MucTieu.resources
+E:\C#\Thinh\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.PauseGame.resources
+E:\C#\Thinh\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.Properties.Resources.resources
+E:\C#\Thinh\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang3.csproj.GenerateResource.Cache
+E:\C#\Thinh\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.Thua.resources
+E:\GameDaoVang\bin\Debug\GameDaoVang.exe.config
+E:\GameDaoVang\obj\Debug\GameDaoVang.exe
+E:\GameDaoVang\obj\Debug\GameDaoVang.pdb
+E:\C#\GameDaoVang\bin\Debug\GameDaoVang.exe.config
+E:\C#\GameDaoVang\obj\Debug\GameDaoVang.exe
+E:\C#\GameDaoVang\obj\Debug\GameDaoVang.pdb
+E:\C#\GameDaoVang\bin\Debug\GameDaoVang.exe
+E:\C#\GameDaoVang\bin\Debug\GameDaoVang.pdb
+E:\C#\GameDaoVang\obj\Debug\GameDaoVang3.csprojResolveAssemblyReference.cache
+E:\C#\GameDaoVang\obj\Debug\GameDaoVang.BanHang.resources
+E:\C#\GameDaoVang\obj\Debug\GameDaoVang.ChuGian.resources
+E:\C#\GameDaoVang\obj\Debug\GameDaoVang.GioiThieu.resources
+E:\C#\GameDaoVang\obj\Debug\GameDaoVang.HuongDanChoi.resources
+E:\C#\GameDaoVang\obj\Debug\GameDaoVang.ManChoi.resources
+E:\C#\GameDaoVang\obj\Debug\GameDaoVang.Menu.resources
+E:\C#\GameDaoVang\obj\Debug\GameDaoVang.MucTieu.resources
+E:\C#\GameDaoVang\obj\Debug\GameDaoVang.PauseGame.resources
+E:\C#\GameDaoVang\obj\Debug\GameDaoVang.Properties.Resources.resources
+E:\C#\GameDaoVang\obj\Debug\GameDaoVang.Thua.resources
+E:\C#\GameDaoVang\obj\Debug\GameDaoVang3.csproj.GenerateResource.Cache
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\bin\Debug\GameDaoVang.exe.config
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\bin\Debug\GameDaoVang.exe
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\bin\Debug\GameDaoVang.pdb
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang3.csprojAssemblyReference.cache
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.BanHang.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.ChuGian.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.GioiThieu.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.HuongDanChoi.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.ManChoi.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.Menu.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.MucTieu.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.PauseGame.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.Properties.Resources.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.Thua.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang3.csproj.GenerateResource.cache
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang3.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.exe
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.pdb
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\bin\Debug\GameDaoVang.exe.config
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\bin\Debug\GameDaoVang.exe
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\bin\Debug\GameDaoVang.pdb
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang3.csprojAssemblyReference.cache
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.BanHang.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.ChuGian.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.GioiThieu.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.HuongDanChoi.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.ManChoi.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.Menu.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.MucTieu.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.PauseGame.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.Properties.Resources.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.Thua.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang3.csproj.GenerateResource.cache
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang3.csproj.CoreCompileInputs.cache
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.exe
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\GameDaoVang\GameDaoVang\obj\Debug\GameDaoVang.pdb
+E:\GDV\GameDaoVang-Tri\GameDaoVang\bin\Debug\GameDaoVang.exe.config
+E:\GDV\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.exe
+E:\GDV\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.pdb
+E:\GDV\GameDaoVang-Tri\GameDaoVang\bin\Debug\GameDaoVang.exe
+E:\GDV\GameDaoVang-Tri\GameDaoVang\bin\Debug\GameDaoVang.pdb
+E:\GDV\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang3.csprojResolveAssemblyReference.cache
+E:\GDV\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.BanHang.resources
+E:\GDV\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.ChuGian.resources
+E:\GDV\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.GioiThieu.resources
+E:\GDV\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.HuongDanChoi.resources
+E:\GDV\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.ManChoi.resources
+E:\GDV\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.Menu.resources
+E:\GDV\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.MucTieu.resources
+E:\GDV\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.PauseGame.resources
+E:\GDV\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.Properties.Resources.resources
+E:\GDV\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.Thua.resources
+E:\GDV\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang3.csproj.GenerateResource.Cache
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\bin\Debug\GameDaoVang.exe.config
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\bin\Debug\GameDaoVang.exe
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\bin\Debug\GameDaoVang.pdb
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang3.csprojAssemblyReference.cache
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.BanHang.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.ChuGian.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.GioiThieu.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.HuongDanChoi.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.ManChoi.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.Menu.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.MucTieu.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.PauseGame.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.Properties.Resources.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.Thua.resources
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang3.csproj.GenerateResource.cache
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang3.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.exe
+C:\Users\hoang\Downloads\GameDaoVang\GameDaoVang-Tri\GameDaoVang\obj\Debug\GameDaoVang.pdb
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\bin\Debug\GameDaoVang.exe.config
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\bin\Debug\GameDaoVang.exe
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\bin\Debug\GameDaoVang.pdb
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\obj\Debug\GameDaoVang3.csprojAssemblyReference.cache
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\obj\Debug\GameDaoVang.BanHang.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\obj\Debug\GameDaoVang.ChuGian.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\obj\Debug\GameDaoVang.GioiThieu.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\obj\Debug\GameDaoVang.HuongDanChoi.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\obj\Debug\GameDaoVang.ManChoi.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\obj\Debug\GameDaoVang.Menu.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\obj\Debug\GameDaoVang.MucTieu.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\obj\Debug\GameDaoVang.PauseGame.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\obj\Debug\GameDaoVang.Properties.Resources.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\obj\Debug\GameDaoVang.Thua.resources
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\obj\Debug\GameDaoVang3.csproj.GenerateResource.cache
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\obj\Debug\GameDaoVang3.csproj.CoreCompileInputs.cache
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\obj\Debug\GameDaoVang.exe
+H:\Minh Trí\KHOA HỌC MÁY TÍNH - (OU)\NĂM 2\LẬP TRÌNH GIAO DIỆN (C#)\BT Giữa Kỳ C#\16-Game Đào Vàng-Hoàng Phạm Minh Trí\GameDaoVang\obj\Debug\GameDaoVang.pdb

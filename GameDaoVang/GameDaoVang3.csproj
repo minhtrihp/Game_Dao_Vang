@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0E3830B0-C3E9-4408-A0AB-8071BD6BC57C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GameDaoVang</RootNamespace>
+    <AssemblyName>GameDaoVang</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BanHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BanHang.Designer.cs">
+      <DependentUpon>BanHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChuGian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChuGian.Designer.cs">
+      <DependentUpon>ChuGian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GioiThieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GioiThieu.Designer.cs">
+      <DependentUpon>GioiThieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HuongDanChoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HuongDanChoi.Designer.cs">
+      <DependentUpon>HuongDanChoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManChoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManChoi.Designer.cs">
+      <DependentUpon>ManChoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MucTieu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MucTieu.Designer.cs">
+      <DependentUpon>MucTieu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PauseGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PauseGame.Designer.cs">
+      <DependentUpon>PauseGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Thua.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thua.Designer.cs">
+      <DependentUpon>Thua.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BanHang.resx">
+      <DependentUpon>BanHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChuGian.resx">
+      <DependentUpon>ChuGian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GioiThieu.resx">
+      <DependentUpon>GioiThieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HuongDanChoi.resx">
+      <DependentUpon>HuongDanChoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManChoi.resx">
+      <DependentUpon>ManChoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MucTieu.resx">
+      <DependentUpon>MucTieu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PauseGame.resx">
+      <DependentUpon>PauseGame.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thua.resx">
+      <DependentUpon>Thua.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\Menu\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\GioiThieu\img_title.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\HuongDan\back1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\HuongDan\TiepTuc1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\BanHang\TiepTuc1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\BanHang\BackgroundBanHang.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\BanHang\NguoiBanNoi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\BanHang\BanMua.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\BanHang\Co4La.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\BanHang\Phao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\BanHang\ThuocSucManh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\BanHang\TangGiaTriDa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\BanHang\BanKhongDuoc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\choiTuDau1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\MucTieu\mucTieu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Image\ManChoi\Thua.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
